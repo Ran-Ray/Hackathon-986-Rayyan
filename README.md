@@ -11,3 +11,9 @@ uses discord bot and computer vision
 4.pillow
 5.keras 
 6.tensorflow 
+
+### Command
+$waste (with attachment)
+identifies the object in the attachment and give a way to recycle that type of waste
+$plant
+gives a step-by-step to plant a plant around a general living space
